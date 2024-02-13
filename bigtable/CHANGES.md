@@ -1,5 +1,12 @@
 # Changes
 
+## [1.21.1](https://github.com/googleapis/google-cloud-go/compare/bigtable/v1.21.0...bigtable/v1.21.1) (2024-02-13)
+
+
+### Bug Fixes
+
+* **bigtable:** Fix deadline exceeded conformance test ([#9220](https://github.com/googleapis/google-cloud-go/issues/9220)) ([092ee0b](https://github.com/googleapis/google-cloud-go/commit/092ee0ba59267b8fb4d3f4e7727ed3ccbf81e7e7))
+
 ## [1.21.0](https://github.com/googleapis/google-cloud-go/compare/bigtable/v1.20.0...bigtable/v1.21.0) (2023-12-04)
 
 
